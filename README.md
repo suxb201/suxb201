@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-<a href="https://github.com/search?o=desc&q=author%3Asuxb201&s=committer-date&type=Commits">
-  <img align="center" height = "167" src="https://github-readme-stats.vercel.app/api?username=suxb201&count_private=true&show_icons=true&theme=dark&hide=contribs&include_all_commits=true" />
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=16659368" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=16659368&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @suxb201" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=16659368&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
 </a>
-<a href="https://github.com/suxb201?tab=repositories">
-  <img align="center" height = "167" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suxb201&count_private=true&layout=compact&theme=dark" />
-</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
