@@ -7,7 +7,7 @@ Open source projects I maintain:
 - [RedisShake](https://github.com/tair-opensource/RedisShake) - Redis/Valkey data processing and migration tool
 - [resp-benchmark](https://github.com/tair-opensource/resp-benchmark) - Benchmark tool for RESP protocol databases
 - [tair-pulse](https://pypi.org/project/tair-pulse/) - Tair monitoring and diagnostics
-- dynamo-benchmark - DynamoDB benchmark tool
+- [data-migration-for-dynamodb](https://github.com/tair-opensource/data-migration-for-dynamodb) - DynamoDB data migration tool
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=16659368" target="_blank" style="display: block" align="center">
   <picture>
